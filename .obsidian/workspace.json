@@ -1,48 +1,140 @@
 {
   "main": {
-    "id": "merged_main_id",  "type": "split",
+    "id": "7929c678dac5146c",
+    "type": "split",
     "children": [
       {
-        "id": "merged_left_id",  "type": "tabs",
+        "id": "3ac3173fa59f2818",
+        "type": "tabs",
         "children": [
           {
-            "id": "image_tab_id",  "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "src/IMG_20240622_145906_792.jpg"
-              }
-            }
-          },
-          {
-            "id": "markdown_tab_id",  "type": "leaf",
+            "id": "cabf3cdc0c73fbe5",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Keeptime.md",  "mode": "source",
+                "file": "전문가를 위한 C/전문가를 위한 C - 5.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ]
-      },
-      {
-        "id": "left_panel_id",  "type": "split",
-        "children": [
-          ],
-        "direction": "horizontal",
-        "width": 300
-      },
-      {
-        "id": "right_panel_id",  "type": "split",
-        "children": [
-          ],
-        "direction": "horizontal",
-        "width": 300,
-        "collapsed": true
       }
     ],
     "direction": "vertical"
+  },
+  "left": {
+    "id": "af566a811e5c4beb",
+    "type": "split",
+    "children": [
+      {
+        "id": "548cfa2af8e8614b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84f3f42be4db12cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "13111cf4599e9742",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "49242fe9a83f5d94",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "49e22e1bbc1bb9ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "e58abe7dfe3f0afe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51fc18bf587c889a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "전문가를 위한 C/전문가를 위한 C - 5.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31f50b523ee37aa8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "전문가를 위한 C/전문가를 위한 C - 5.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29b88a1139507386",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b995b4470fbf5993",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "전문가를 위한 C/전문가를 위한 C - 5.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -54,15 +146,6 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active":   
- "markdown_tab_id",  "lastOpenFiles": [
-    "Wishlist.md",
-    "www.google.com.md",
-    "내 생각.md",
-    "리눅스마스터1급.md",
-    "할거.md",
-    "안녕하세요, 임베디드 개발자 김규민입니다..md",
-    "Keeptime.md",
-    "src/IMG_20240622_145906_792.jpg"
-  ]
+  "active": "cabf3cdc0c73fbe5",
+  "lastOpenFiles": []
 }
