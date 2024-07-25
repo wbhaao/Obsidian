@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "3d99e727ce6c0123",
+    "type": "split",
+    "children": [
+      {
+        "id": "f41518db25489f1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c03124791c906f93",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "src/IMG_20240622_145906_792.jpg"
+              }
+            }
+          },
+          {
+            "id": "ae333fa8dd7daded",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Keeptime.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b36737db0a25672a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7abf6b45eb8875e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0d974d502d541c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9aa90f75102aaa1b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "414988a09bc95fd3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f3207278e7c99bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "db073a394bc5e596",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85baef579dce3e95",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Keeptime.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27698205be53981a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Keeptime.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5829b0d9b5137dbe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "557040f1854dbd2a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Keeptime.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "ae333fa8dd7daded",
+  "lastOpenFiles": [
+    "Wishlist.md",
+    "www.google.com.md",
+    "내 생각.md",
+    "리눅스마스터1급.md",
+    "할거.md",
+    "안녕하세요, 임베디드 개발자 김규민입니다..md",
+    "Keeptime.md",
+    "src/IMG_20240622_145906_792.jpg"
+  ]
+}
