@@ -1,5 +1,12 @@
 [
   "obsidian-git",
   "editing-toolbar",
-  "remotely-save"
+  "remotely-save",
+  "make-md",
+  "dataview",
+  "obsidian-outliner",
+  "url-into-selection",
+  "obsidian-excalidraw-plugin",
+  "calendar",
+  "obsidian-icon-folder"
 ]
